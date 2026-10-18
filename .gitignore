@@ -1,0 +1,16 @@
+# Raw data and the generated database are not committed (size + personal data; see data/README.md)
+data/raw/
+data/*.db
+*.db
+*.sqlite
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor / Office temp files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
