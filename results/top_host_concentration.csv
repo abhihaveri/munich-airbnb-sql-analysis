@@ -1,0 +1,5 @@
+host_group,hosts,listings,share_of_all_listings_pct
+10 largest hosts,10,268,3.6
+top 1% of hosts,57,692,9.2
+top 5% of hosts,287,1584,21.1
+top 10% of hosts,574,2163,28.9

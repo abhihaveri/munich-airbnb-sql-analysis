@@ -1,0 +1,7 @@
+column_name,null_count,null_pct
+price,2413,32.2
+review_scores_rating,1595,21.3
+first_review,1595,21.3
+has_availability,101,1.3
+minimum_nights (filled from calendar),35,0.5
+bedrooms,4,0.1

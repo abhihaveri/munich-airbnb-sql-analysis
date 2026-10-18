@@ -1,0 +1,11 @@
+room_type,neighbourhood,minimum_nights,price_eur
+Private room,Maxvorstadt,1,79600.0
+Private room,Maxvorstadt,1,68392.0
+Entire home/apt,Ludwigsvorstadt-Isarvorstadt,1,4410.0
+Private room,Ludwigsvorstadt-Isarvorstadt,1,3900.0
+Entire home/apt,Altstadt-Lehel,2,3867.0
+Private room,Schwabing-Freimann,2,3547.0
+Entire home/apt,Maxvorstadt,1,3007.0
+Entire home/apt,Sendling,1,2790.0
+Entire home/apt,Sendling,1,2740.0
+Entire home/apt,Au-Haidhausen,1,2235.0

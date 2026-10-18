@@ -1,0 +1,22 @@
+neighbourhood,listings,median_price_eur,p25_price_eur,p75_price_eur,vs_city_median_pct,price_rank,top_host_share_pct
+Altstadt-Lehel,99,293.0,169.0,441.33,90.0,1,8.0
+Ludwigsvorstadt-Isarvorstadt,277,220.0,155.0,335.5,43.0,2,8.0
+Maxvorstadt,125,193.0,128.0,249.67,25.0,3,6.0
+Schwanthalerhöhe,77,181.0,125.0,270.5,18.0,4,5.0
+Schwabing-Freimann,79,174.0,119.0,271.0,13.0,5,6.0
+Schwabing-West,93,166.0,99.0,273.15,8.0,6,3.0
+Sendling,73,159.0,105.5,201.0,3.0,7,5.0
+Au-Haidhausen,102,152.0,105.0,231.2,-1.0,8,5.0
+Bogenhausen,100,148.0,99.0,260.0,-4.0,9,5.0
+Obergiesing,61,142.0,100.0,195.0,-8.0,10,3.0
+Berg am Laim,41,141.0,80.0,208.0,-8.0,11,5.0
+Neuhausen-Nymphenburg,116,140.0,97.0,240.5,-9.0,12,3.0
+Laim,61,134.0,97.4,214.0,-13.0,13,3.0
+Sendling-Westpark,73,130.0,101.33,209.0,-16.0,14,4.0
+Pasing-Obermenzing,76,129.0,88.0,263.0,-16.0,15,13.0
+Ramersdorf-Perlach,82,127.0,80.5,184.0,-18.0,16,11.0
+Tudering-Riem,105,124.0,95.0,171.5,-19.0,17,15.0
+Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln,99,122.0,90.0,205.67,-21.0,18,8.0
+Untergiesing-Harlaching,56,117.0,89.33,169.0,-24.0,19,4.0
+Milbertshofen-Am Hart,50,116.0,86.0,165.0,-25.0,20,4.0
+Aubing-Lochhausen-Langwied,73,100.0,99.6,109.8,-35.0,21,78.0
